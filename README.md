@@ -2,7 +2,7 @@
 
 The methodology section of your thesis, "Development of an LLM-based Grinding Process Optimization Tool for an Efficient Production of Battery Materials," focuses on the design and implementation of a Retrieval-Augmented Generation (RAG) system integrated with digital twin technology. This system is presented through a user-friendly graphical interface (GUI) called particleOS.ai. The core of the methodology revolves around leveraging AI capabilities, numerical and visual data processing, and digital twin functionality to provide specialized particle-related analysis.
 
-Your primary contribution to the particleOS.ai project involved the structured development of three main interactive tabs within the interface: "Process Modelling & Understanding," "Process Optimization," and "Database Access".   
+My primary contribution to the particleOS.ai project involved the structured development of three main interactive tabs within the interface: "Process Modelling & Understanding," "Process Optimization," and "Database Access".   
 
 The methodology covers the following key areas in detail:
 
